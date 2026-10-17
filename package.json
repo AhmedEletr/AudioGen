@@ -1,0 +1,13 @@
+{
+  "name": "audiogen",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "groq-sdk": "^1.6.0",
+    "node-edge-tts": "^1.2.11"
+  }
+}
